@@ -1,0 +1,41 @@
+<resources>
+
+    <string name="app_name">CELTICS QUIZ</string>
+
+    <string name="celtics_quiz_header">BOSTON CELTICS QUIZ</string>
+
+    <string name="q1">Fill in the blank:</string>
+
+    <string name="q12">The name of the Boston Celtics mascot is </string>
+
+    <string name="q13">the Leprachaun</string>
+
+    <string name="q2">Which former Celtics players have had their numbers raised to the rafters? (Check all that apply.)</string>
+
+    <string name="piercebox">Paul Pierce</string>
+
+    <string name="delontebox">Delonte West</string>
+
+    <string name="birdbox">Larry Bird</string>
+
+    <string name="perkinsbox">Kendrick Perkins</string>
+
+    <string name="q3">Which Celtics player injured their ankle on opening night 2017-2018 season? (Choose one)</string>
+
+    <string name="kyrieradio">Kyrie Irving</string>
+
+    <string name="jaysonradio">Jayson Tatum</string>
+
+    <string name="gordonradio">Gordon Hayward</string>
+
+    <string name="marcusradio">Marcus Smart</string>
+
+    <string name="q41">Fill in the blank:</string>
+
+    <string name="q4">The Celtics Play in TD Bank North... </string>
+
+    <string name="youranswer">Your Answer</string>
+
+    <string name="submitbutton">Submit Answer</string>
+
+</resources>
